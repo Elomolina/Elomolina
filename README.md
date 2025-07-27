@@ -64,6 +64,13 @@ Version Control \
 <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/250px-GitHub_Invertocat_Logo.svg.png" alt="Github"/>
 <img height="32" src="https://assets.gearset.com/2024/08/06111352/azure-devops.svg" alt="Azure DevOps"/>
 <br/> \
+Styling 🎨 \
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind"/>
+<img height="32" src="https://www.unistyl.es/unicorn.svg" alt="Unistyles"/>
+<img height="32" src="https://avatars.githubusercontent.com/u/75042455?s=280&v=4" alt="Radix"/>
+<img height="32" src="https://cdn.worldvectorlogo.com/logos/ant-design-2.svg" alt="Ant Design"/>
+<img height="32" src="https://www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png" alt="Prime ng"/>
+<br/> \
 Others \
 <img height="32" src="https://miro.medium.com/v2/resize:fit:1024/1*kepX0EHTbLc6O9mRKsierg.png" alt="Expo"/>
 <img height="32" src="https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2F3bzg30pauwbl828gcl84.png" alt="Prisma"/>
