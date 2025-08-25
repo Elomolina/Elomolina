@@ -7,6 +7,28 @@
 
 ## Working experience 
 
+___
+[<img align="left" height="94px" width="94px" alt="cs50x.ni" src="https://www.lafise.com/CuentaEmpresarial-Regional/css/Imagenes/Logo_LAFISE.png"/>](https://www.lafise.com/)
+### Junior Programmer Analyst
+*Feb.2025 - Present* \
+As a Junior Programmer Analyst I've designed, developed and implemented software solutions. I work primarily with node frameworks specifically working with Next.js, using Next both for the frontend and also for the backend using the prisma orm. \
+Currently working on a mobile application with React Native using Expo.
+\
+<br/>
+**Languages and frameworks**: TypeScript, React, Next, React Native. \
+**Other tools**: Github, Azure DevOps, Jira.
+<br/>
+___
+
+[<img align="left" height="94px" width="94px" alt="cs50x.ni" src="https://code-fu.net.ni/wp-content/uploads/2024/07/Code-FU-Landscape.svg"/>](https://code-fu.net.ni/)
+### Course Lead
+*Sept.2022 - May.2024* \
+As a course lead, I transitioned from teaching to guiding the teaching staff, ensuring they are well-prepared for each class. I also organize the weekly content to make it as clear and accessible as possible for the students.
+\
+<br/>
+**Tools**: Google Sheets, Python, WordPress.
+<br/>
+___
 [<img align="left" height="94px" width="94px" alt="cs50x.ni" src="https://code-fu.net.ni/wp-content/uploads/2024/07/Code-FU-Landscape.svg"/>](https://code-fu.net.ni/)
 ### Teaching assistant 
 *Sept.2021 - Ago.2022* \
@@ -15,28 +37,6 @@ As teaching assistant I taught Nicaraguan students the content of the cs50 cours
 **Languages and frameworks taught**: C, Python(flask for web development), JavaScript, SQL.
 <br/>
 ___
-[<img align="left" height="94px" width="94px" alt="cs50x.ni" src="https://code-fu.net.ni/wp-content/uploads/2024/07/Code-FU-Landscape.svg"/>](https://code-fu.net.ni/)
-### Course Lead
-*Sept.2022 - May.2024* \
-After being teaching assistant I got the opportunity to be course lead, not teaching anymore 
-but guiding the teaching staff, assuring they are prepared for the classes. Also organizing the content to be taught weekly so the students can understand it as easy as possible.
-\
-<br/>
-**Tools**: Google Sheets, Python, WordPress.
-<br/>
-
-___
-[<img align="left" height="94px" width="94px" alt="cs50x.ni" src="https://sistematica.io/img/logo.png"/>](https://sistematica.io/)
-### Junior Programmer Analyst
-*Feb.2025 - Present* \
-As a Junior Programmer Analyst I've designed, developed and implement software solutions. I worked primarily with node frameworks specifically working with Next.js, using Next both for the frontend and also for the backend using the prisma orm. \
-Currently working on a mobile application with React Native using Expo.
-\
-<br/>
-**Languages and frameworks**: TypeScript, React, Next, React Native. \
-**Other tools**: Github, Azure DevOps, Jira.
-<br/>
-
 ## My Skills
 Languages 
 <p>
