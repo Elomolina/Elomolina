@@ -1,7 +1,7 @@
 # Hi there, I'm Elo 🤠
 
 ## A little bit about me 
-- Currently fourth year student of computer engineering 👩‍💻
+- Currently fifth year student of computer engineering 👩‍💻
 - Based in Managua, Nicaragua.
 - Primarily focus on frontend development.
 
