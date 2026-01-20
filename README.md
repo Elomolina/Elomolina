@@ -20,7 +20,7 @@ Currently working on a mobile application with React Native using Expo.
 <br/>
 ___
 
-[<img align="left" height="94px" width="94px" alt="cs50x.ni" src="https://code-fu.net.ni/wp-content/uploads/2024/07/Code-FU-Landscape.svg"/>](https://code-fu.net.ni/)
+[<img align="left" height="94px" width="94px" alt="cs50x.ni" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAqlIJA-r-STghec0pC9HKHKDSbh2urL50EA&s"/>](https://code-fu.net.ni/)
 ### Course Lead
 *Sept.2022 - May.2024* \
 As a course lead, I transitioned from teaching to guiding the teaching staff, ensuring they are well-prepared for each class. I also organize the weekly content to make it as clear and accessible as possible for the students.
@@ -29,7 +29,7 @@ As a course lead, I transitioned from teaching to guiding the teaching staff, en
 **Tools**: Google Sheets, Python, WordPress.
 <br/>
 ___
-[<img align="left" height="94px" width="94px" alt="cs50x.ni" src="https://code-fu.net.ni/wp-content/uploads/2024/07/Code-FU-Landscape.svg"/>](https://code-fu.net.ni/)
+[<img align="left" height="94px" width="94px" alt="cs50x.ni" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAqlIJA-r-STghec0pC9HKHKDSbh2urL50EA&s"/>](https://code-fu.net.ni/)
 ### Teaching assistant 
 *Sept.2021 - Ago.2022* \
 As teaching assistant I taught Nicaraguan students the content of the cs50 course. I also helped student complete the problem sets included in the course. \
